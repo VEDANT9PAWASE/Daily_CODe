@@ -1,3 +1,5 @@
+//Code To show multi-inheritance in java 
+
 public class Vehicle {
 
     String brand = "Ford";
