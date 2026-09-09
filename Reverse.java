@@ -1,4 +1,5 @@
-//This Code is to reverse the Given digit.
+
+
 
 import java.util.Scanner;
 
